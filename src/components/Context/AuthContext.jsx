@@ -16,7 +16,7 @@ function AuthProvider ({children}) {
     function logout () {
         toggleIsAuth(false)
         navigate('/')
-        console.log("Ewa G, t'is nie gelukt ouwe met dah inloggen")
+        console.log("Ewa G, t'is je meui gelukt met uitloggen")
     }
 
 const contextData = {
